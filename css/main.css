@@ -1808,7 +1808,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #9ff;
+  background: #748ab8;
 }
 .feed-link,
 .chat {
@@ -1994,6 +1994,9 @@ img:hover {
 }
 .footer-inner {
   text-align: center;
+}
+#animate {
+  animation: iconAnimate 1.33s ease-in-out infinite;
 }
 .with-love {
   display: inline-block;
